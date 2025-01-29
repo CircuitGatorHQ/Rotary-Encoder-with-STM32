@@ -1,5 +1,5 @@
 # Rotary-Encoder-with-STM32
-Below is a simple code you can use to read rotary encoder values with an STM32 Microcontroller. The example below is for a Rotary Encoder that controls how fast an LED blinks. The full tutorial video is available on YouTube: 
+Below is a simple code you can use to read rotary encoder values with an STM32 Microcontroller. The example below is for a Rotary Encoder that controls how fast an LED blinks. The full tutorial video is available on YouTube: https://youtu.be/9BJcLJLQJU8
 
     /* USER CODE BEGIN PV */
     int32_t rawCounter = 0;
